@@ -1,11 +1,11 @@
-# 🧩 NestingAnalysisPBvsPython
+# NestingAnalysisPBvsPython
 *Comparing heuristic approaches to 2‑D irregular‑shape placement in **PowerBASIC** vs **Python***  
 
 <p align="center">
   <img src="Execution Time by Implementation and Parallelism.png" alt="Runtime comparison plot" width="75%">
 </p>
 
-## 📜 Project Overview
+## Project Overview
 Manufacturers in garment, leather, and sheet‑metal industries care deeply about **cut‑nesting efficiency**—even a 1 % reduction in scrap can translate into millions of dollars saved.  
 Legacy CAD suites still rely on a 1990s **PowerBASIC** solver that is fast but hard to extend. This repo:
 
@@ -17,7 +17,7 @@ Our ultimate goal is to provide data that will convince stakeholders that a stag
 
 ---
 
-## 🗂️ Repository Contents
+## 🗂 Repository Contents
 
 | File / Folder | Description |
 |---------------|-------------|
@@ -28,12 +28,11 @@ Our ultimate goal is to provide data that will convince stakeholders that a stag
 | **`Memory Usage by Implementation and Parallelism.png`** | Bar chart of peak RSS memory. |
 | **`Vertices Processed by Implementation and Parallelism.png`** | Workload metric (millions of polygon‑vertices handled). |
 | **`marques.json`** | Mini dataset of polygon coordinates (for quick smoke tests). |
-| **`README.md`** | You’re reading it 😊 |
 | **Demo Video** | Short run‑through of code & plots → [Google Drive link](https://drive.google.com/file/d/1OVAJmVURrDDMjwRg2z51QviWX2ZU-Fff/view?usp=sharing). |
 
 ---
 
-## 🚀 Quick Start (Python ≥ 3.11)
+##  Quick Start (Python ≥ 3.11)
 
 ```bash
 # 1. Clone the repo
